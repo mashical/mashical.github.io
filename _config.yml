@@ -78,9 +78,8 @@ clients:
     img: client03.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "BV PT is a physiotherapy and personal training clinic located in North Lakes, Brisbane.  We are highly skilled in treating a wide range of injuries, an achieving peak performance across all stages of function.
-
-Website designed using Jekyll and Solid theme by blacktie.co"
+about: "BV PT is a physiotherapy and personal training clinic located in North Lakes, Brisbane.  We are highly skilled in treating a wide range of injuries, an achieving peak performance across all stages of function."
+about: "Website designed using Jekyll and Solid theme by blacktie.co"
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
