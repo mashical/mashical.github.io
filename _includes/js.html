@@ -22,18 +22,18 @@
 // Services
 (function($) {
 	"use strict";
-	var $container = $('.services'),
-		$items = $container.find('.services-item'),
-		servicesLayout = 'fitRows';
+	var $container = $('.portfolio'),
+		$items = $container.find('.portfolio-item'),
+		portfolioLayout = 'fitRows';
 		
 		if( $container.hasClass('services-centered') ) {
-			servicesLayout = 'masonry';
+			portfolioLayout = 'masonry';
 		}
 				
 		$container.isotope({
 			filter: '*',
 			animationEngine: 'best-available',
-			layoutMode: servicesLayout,
+			layoutMode: portfolioLayout,
 			animationOptions: {
 			duration: 750,
 			easing: 'linear',
@@ -48,10 +48,10 @@
 			}, 1000);   
 		}
 				
-		$('nav.services-filter ul a').on('click', function() {
+		$('nav.portfolio-filter ul a').on('click', function() {
 				var selector = $(this).attr('data-filter');
 				$container.isotope({ filter: selector }, refreshWaypoints());
-				$('nav.services-filter ul a').removeClass('active');
+				$('nav.portfolio-filter ul a').removeClass('active');
 				$(this).addClass('active');
 				return false;
 		});
@@ -79,24 +79,24 @@
 				columnNumber = getColumnNumber(), 
 				itemWidth = Math.floor(winWidth / columnNumber);
 				
-				$container.find('.services-item').each(function() { 
+				$container.find('.portfolio-item').each(function() { 
 					$(this).css( { 
 					width : itemWidth + 'px' 
 				});
 			});
 		}
 		
-		function setServices() { 
+		function setPortfolio() { 
 			setColumns();
 			$container.isotope('reLayout');
 		}
 			
 		$container.imagesLoaded(function () { 
-			setServices();
+			setPortfolio();
 		});
 		
 		$(window).on('resize', function () { 
-		setServices();          
+		setPortfolio();          
 	});
 })(jQuery);
 </script>
