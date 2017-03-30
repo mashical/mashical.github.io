@@ -17,7 +17,7 @@ Shoulder pain can be a giant pain in the butt!  Your shoulder is the most mobile
 
 The most common cause of shoulder pain that I personally come across in a clinical setting is bursitis of the glenohumeral joint.  This usually fits into a syndrome named shoulder impingement which occurs when there is impingement between the tendons or bursa in the shoulder during movement. <!--more-->  
 
-**What is Bursitis?**  
+### What is Bursitis?  
 Bursitis is inflammation of the bursa.  There are approximately 160 bursae in the adult body.  Bursa are fluid filled sacs located around joints.  They are essential for movement to occur smoothly as they help to reduce friction.
 
 Bursitis can occur due to a number of reasons.  These reasons include excessive friction from overuse or repeated movements (particularly with bad posture/form), impact , injury and underlying conditions such as rheumatoid arthritis.  When the bursa is exposed to these conditions the synovial membrane of a bursa becomes inflamed.
@@ -39,7 +39,7 @@ Symptoms of bursitis include:
 
 Bursitis can usually be accurately diagnosed through a physiotherapy assessment.  If there is any doubt it is usually backed up by ultrasound scan and/or x-ray to rule out other possible causes.   
 
-![Shoulder Bursitis]({{ site.baseurl }}/assets/img/blog/shoulderjoint-300x276.jpg)
+![Shoulder Bursitis]({{ site.baseurl }}/assets/img/blog/shoulderjoint-300x276.jpg)  
 _The structure of the shoulder and location of it's bursa. Source www.edoctoronline.com_  
 
 **What should I do if I have shoulder pain?**  
@@ -52,14 +52,14 @@ End range elevation of the shoulder requires flexion and external rotation. The 
 
 There are a number of ways to address this tightness.  Two possible options include stretching and soft tissue release.
  
-**Stretching**  
+### Stretching   
 
 Stretching is a form of physical exercise in which a specific muscle or tendon is deliberately held in tension at either end in order to increase flexibility.  I will discuss a few stretches which may help reduce your shoulder pain.
 
 Note: Stretches should be held for approximately 30 seconds and should not be painful.
 
-> Latissimus Dorsi
-One way to achieve a stretch in this muscle is by standing tall with your back straight and hands above your head. Gently lean to one side until you feel a mild to moderate stretch in the side of your upper back and shoulder.
+Latissimus Dorsi
+>One way to achieve a stretch in this muscle is by standing tall with your back straight and hands above your head. Gently lean to one side until you feel a mild to moderate stretch in the side of your upper back and shoulder.
 
 Another way to stretch your latissimus dorsi muscles and get both sides at the same time is to hold on to a sturdy object with both of your hands and sitting back on your heels into a squat or crouched position.  Be mindful of the position of your back and ensure it stays flat.
 
