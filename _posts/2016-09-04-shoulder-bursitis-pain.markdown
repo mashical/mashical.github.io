@@ -39,7 +39,7 @@ Symptoms of bursitis include:
 
 Bursitis can usually be accurately diagnosed through a physiotherapy assessment.  If there is any doubt it is usually backed up by ultrasound scan and/or x-ray to rule out other possible causes.   
 
-![]({{site.baseurl}}/assets/img/shoulderjoint-300x276.jpg)
+![Shoulder Bursitis]({{ site.baseurl }}/assets/img/shoulderjoint-300x276.jpg)
 _The structure of the shoulder and location of it's bursa. Source www.edoctoronline.com_  
 
 **What should I do if I have shoulder pain?**  
