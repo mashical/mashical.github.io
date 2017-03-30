@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shoulder Bursitis Pain
-date: {}
+date: 2016-09-04 16:00:00
 author: Admin
 categories:
   - blog
