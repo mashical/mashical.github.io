@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time to change your apps
+title: Understanding Hip Rotation
 date: 2016-07-28T16:54:46.000Z
 author: Admin
 categories:
