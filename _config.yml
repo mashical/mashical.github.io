@@ -28,7 +28,7 @@ collections:
     permalink: /projects/:title/
   questions:
     output: true
-    permalink: /posts/questions/:title/
+    permalink: /posts/:title/
 
 ### CONTACT SETTINGS ###
 
