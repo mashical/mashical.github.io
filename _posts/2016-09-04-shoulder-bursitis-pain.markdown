@@ -58,8 +58,8 @@ Stretching is a form of physical exercise in which a specific muscle or tendon i
 
 Note: Stretches should be held for approximately 30 seconds and should not be painful.
 
-Latissimus Dorsi
->One way to achieve a stretch in this muscle is by standing tall with your back straight and hands above your head. Gently lean to one side until you feel a mild to moderate stretch in the side of your upper back and shoulder.
+**Latissimus Dorsi**
+One way to achieve a stretch in this muscle is by standing tall with your back straight and hands above your head. Gently lean to one side until you feel a mild to moderate stretch in the side of your upper back and shoulder.
 
 Another way to stretch your latissimus dorsi muscles and get both sides at the same time is to hold on to a sturdy object with both of your hands and sitting back on your heels into a squat or crouched position.  Be mindful of the position of your back and ensure it stays flat.
 
@@ -68,24 +68,28 @@ Another way to stretch your latissimus dorsi muscles and get both sides at the s
 Start standing in an open doorway or to the left of a wall or post.  Step forward slightly with your left foot so you’re positioned in a shallow lunge.  Place your right elbow on the wall or door ensuring that your right elbow is at 90 degrees and your right arm is at a 90-degree angle to your torso.  Pull in your abdominals and keep your rib cage down, avoiding the urge to hyperextend your lower back.  Gently shift your weight forward to increase the stretch on your right shoulder.  Then, slowly turn your head to face slightly left to increase the stretch.
 
  
-**Myofascial Release**
+### Myofascial Release
 
 Myofascial release is a technique that addresses pain and restriction of your connective tissue.  The onset of these symptoms can occur from overuse, trauma, and inactivity.  I will explain a couple of myofascial techniques you can use specifically for the latissimus dorsi and pectorals.
 
-Latissimus Dorsi: Foam Roller
+**Latissimus Dorsi: Foam Roller**
 
 This technique utilises a foam roller.  Your local gym may have one.  Alternatively you can buy one from a local sports shop.  
 
 To complete this technique place the foam roller under the outer aspect of your back.  Using your legs, slowly move your body forwards and backwards allowing the roller to massage the side of your upper back.  Breathe normally, keeping your upper body relaxed.  Repeat this process for 15 – 90 seconds.  This exercise can also be performed with your hands behind your head or your arms across your chest.
 
 Lat foam roller
-Foam rollers are effective for rolling out tightness in your latissimus dorsi. Lay on your side and take your arm out to the side to expose the musculature.
-Pectorals: Ball Smash
+Foam rollers are effective for rolling out tightness in your latissimus dorsi. Lay on your side and take your arm out to the side to expose the musculature. 
+
+![Lat Foam Roller]({{ site.baseurl }}/assets/img/blog/lat-roller-optimised.jpg)
+
+**Pectorals: Ball Smash**
 
 Whilst pressing up against a wall, place a ball (preferably a Lacrosse ball or Softball) on your pectoralis minor and apply pressure.  Move the ball around the area looking for a stiff spot and gently oscillate to loosen up the tissue.  Alternatively you can place your hand behind your back which is a good way to bias the tissue into internal rotation, which is the movement we're trying to restore.  Just like the foam roller feel free to spend up to approximately 90 seconds in this area then rest a few times as required.
 
 Ball smash example
 The red around the pectoral region outlines where you should be placing the ball for the ball smash
+![Pec Massage]({{ site.baseurl }}/assets/img/blog/chest-web-optimised.jpg)  
 
 Conclusion
 
@@ -93,6 +97,5 @@ Feel free to try these techniques to see if it helps with your shoulder pain.  O
 
 If you have shoulder pain then you should have it assessed by a health professional such as a Physiotherapist to ensure you can manage it effectively.
 
- 
 
 For more information come see me at Braydon Vo Physiotherapy
