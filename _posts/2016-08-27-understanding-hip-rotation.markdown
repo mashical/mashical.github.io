@@ -12,7 +12,7 @@ thumb: thumb02.jpg
 published: true
 ---
 
-**What is external and internal hip rotation?**
+### What is external and internal hip rotation?
 
 You've probably heard that your glutes (aka ass) are important muscles. They directly influence hip position and when activated correctly they can help your body move in an ideal way for specific tasks.
 
@@ -23,7 +23,7 @@ It is important to note that when increasing torque via external rotation as dem
 In fact most of the time it is ideal to have your feet facing forwards.  To increase torque you must attempt to force the hip into external rotation while the foot is planted on a fixed surface, thus taking up the slack in the joint.
 
 
-Why is internal rotation so common?
+**Why is internal rotation so common?**
 
 If you're observant enough when at the gym or watching people play sport you'll notice that despite the benefits of external rotation many people still fall into internal (inward) rotation during certain movements.
 
@@ -53,7 +53,7 @@ So why should we care?  Because increasing torque in the hip by creating externa
 
 Hopefully this helps you to understand why it is important for us to have good gluteal strength and activation. When in doubt you can't go wrong getting strong!
 
-**About the Video**
+### About the Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U50fYmd5KOI" frameborder="0" allowfullscreen></iframe>
 
 The video above demonstrates the differences in knee, ankle and foot position when the hip is either externally rotated or internally rotated.
