@@ -10,7 +10,7 @@ img: post01.jpg
 thumb: thumb01.jpg
 published: true
 ---
-**Butt Wink Background**
+### Butt Wink Background
 'Butt wink' the dreaded problem amongst the gym community leading to injury, pain or discomfort.
 
 A 'butt wink' is when your pelvis tucks under your back (posterior pelvic tilt) at the depth of your squat, this creates a mild flexion in the lumbar spine.  It is a huge risk factor for developing low back pain or injury when squatting.
