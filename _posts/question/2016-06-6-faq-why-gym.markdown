@@ -2,7 +2,7 @@
 layout: question
 title:  "Why is the clinic inside a gym?"
 date:   2016-06-06 16:54:46
-author: Admin
+author: First Last
 categories:
 - question
 ---
